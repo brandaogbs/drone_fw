@@ -1,0 +1,47 @@
+VisualGDB/Debug/system_stm32f4xx.o: \
+ C:/Users/brandao/Desktop/tcc/projetos_arm/drone_rtos/Drone/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.c \
+ ../../Drone/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
+ ../../Drone/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f410rx.h \
+ ../../Drone/Drivers/CMSIS/Include/core_cm4.h \
+ c:\sysgcc\arm-eabi\lib\gcc\arm-eabi\6.2.0\include\stdint.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\stdint.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\_default_types.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\features.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\_newlib_version.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_intsup.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_stdint.h \
+ ../../Drone/Drivers/CMSIS/Include/core_cmInstr.h \
+ ../../Drone/Drivers/CMSIS/Include/cmsis_gcc.h \
+ ../../Drone/Drivers/CMSIS/Include/core_cmFunc.h \
+ ../../Drone/Drivers/CMSIS/Include/core_cmSimd.h \
+ ../../Drone/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+
+../../Drone/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h:
+
+../../Drone/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f410rx.h:
+
+../../Drone/Drivers/CMSIS/Include/core_cm4.h:
+
+c:\sysgcc\arm-eabi\lib\gcc\arm-eabi\6.2.0\include\stdint.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\stdint.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\_default_types.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\features.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\_newlib_version.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_intsup.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_stdint.h:
+
+../../Drone/Drivers/CMSIS/Include/core_cmInstr.h:
+
+../../Drone/Drivers/CMSIS/Include/cmsis_gcc.h:
+
+../../Drone/Drivers/CMSIS/Include/core_cmFunc.h:
+
+../../Drone/Drivers/CMSIS/Include/core_cmSimd.h:
+
+../../Drone/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h:
